@@ -1,0 +1,46 @@
+/* navbar */
+
+
+.nav-item{
+    padding: 0 18px;
+}
+
+
+/* footer */
+
+/* footer section  */
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: black;
+}
+.footer-icon{
+    padding: 10px 10px;
+    color: white;
+}
+
+
+/* form  */
+form{
+    margin-top: 10px;
+}
+#ur-name{
+    margin: auto;
+}
+#ur-mail{
+    margin-top: 10px;
+    margin-left: 4px;
+}
+#ur-number{
+    margin-top: 10px;
+    margin-left: 4px;
+}
+
+
+/* map  */
+.mapouter{
+  margin-left: 20%;
+}
+h1{
+    text-align: center;
+}
